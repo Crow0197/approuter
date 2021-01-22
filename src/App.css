@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.Navbar{
+  height: 5vh;
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+  align-items: center;
+  color:white;
+}
+
+.Links{  
+  display: flex;
+  justify-content: space-between;
+ list-style: none;
+ width: 20%;
+}
+
+
+a {
+  color:white;
+  text-decoration: none;
+}
+
+a:hover {
+  color:wheat;
+ 
+}
+
+.imagePostForm{
+
+  border: 2px solid #2f2a2aed;
+  border-radius: 1%;
+  padding: 4px;
+  width: 25em;
+  margin-top: 1em;
+}
+
+
+.input{
+  width: 25em;
+
+
+}
+
+.divForm{
+margin-top: 1em ;
+
+}
+
+.FormClass{
+
+text-align: center;
+
+}
+
+
+.btnCustom{
+  margin: 1em;
+}
